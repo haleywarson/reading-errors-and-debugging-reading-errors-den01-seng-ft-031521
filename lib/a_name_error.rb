@@ -1,2 +1,2 @@
-greeting # NameError
 greeting = "hello there"
+greeting # NameError
